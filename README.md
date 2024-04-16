@@ -107,13 +107,16 @@ npm install react-router-dom
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/3819d1a2-b881-4bfc-96aa-c0ede1edb87f)
 
 - Esta es la pantalla para el inicio de sesion
-![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/5199e647-fb8c-446e-ac65-cfac848941bc)
+![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/2d91c3da-8d99-4f11-afa1-85c6ea40a37c)
+
 
 - Esta es la pantalla para Registrarse
-![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/df3a354d-adca-40b3-b56e-036eca1b0f93)
+![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/80b6a834-4596-412d-96e9-58557d944570)
+
 
 - esta es al iniciar sesion
-![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/e752d718-07b2-4462-90cb-175f3e454bb1)
+![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/779df9e7-844f-4f12-aee7-294afe88face)
+
 
 - Esta es al ingresar
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/b644b054-47f9-4358-b049-5b96e1c7b94f)
