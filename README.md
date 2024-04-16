@@ -122,7 +122,8 @@ npm install react-router-dom
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/b644b054-47f9-4358-b049-5b96e1c7b94f)
 
 - Se vizualizan los datos del usuario
-![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/186e0144-8ff1-4a29-af63-b401c54ab315)
+![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/a746b992-2369-420d-bf74-c402e7174741)
+
 
 - Este es para Agregar , Modificar, Eliminar y Vizualizar la publicaciones del usuario
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/e4eaed96-38fd-49bf-9828-fa47a9eb31cd)
