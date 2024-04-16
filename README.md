@@ -114,11 +114,7 @@ npm install react-router-dom
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/80b6a834-4596-412d-96e9-58557d944570)
 
 
-- esta es al iniciar sesion
-![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/779df9e7-844f-4f12-aee7-294afe88face)
-
-
-- Esta es al ingresar
+- Esta pantalla es al ingresar
 ![image](https://github.com/Ale0515-GG/Pruebita/assets/116208731/b644b054-47f9-4358-b049-5b96e1c7b94f)
 
 - Se vizualizan los datos del usuario
