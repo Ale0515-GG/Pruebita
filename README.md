@@ -1,5 +1,4 @@
-# XSPACE DEV - PIXELNET APLICATIVO
-
+# XSPACE DEV 
 ## Requerimientos Funcionales
 
 ### Gestión de Contenido por el Administrador:
